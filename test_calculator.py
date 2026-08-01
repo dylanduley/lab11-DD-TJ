@@ -5,7 +5,6 @@
 import unittest
 from calculator import *
 
-
 class TestCalculator(unittest.TestCase):
     ######## Partner 2
     def test_add(self):
@@ -44,7 +43,6 @@ class TestCalculator(unittest.TestCase):
     # Partner 1 will add test_hypotenuse here.
     # Partner 1 will add test_sqrt here.
     ##########################
-
 
 if __name__ == "__main__":
     unittest.main()
